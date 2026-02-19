@@ -39,7 +39,7 @@ export const imageConfig = {
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
       "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&q=80",
-      "https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&q=80",
+      "https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@1614248df20c2e2862ce72ca055aeab4863c5e0a/uploads/2026-02-19T04-40-47-657Z-my209ok26.png",
       "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
       "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&q=80",
     ],
