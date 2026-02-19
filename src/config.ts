@@ -254,7 +254,7 @@ export const projectsConfig: ProjectsConfig = {
       description: "Ott Platgorm For Naino Academy made for students.",
       image: imageConfig.projects.project1,
       tags: ["html", "js", "Video PLayer", "Telegram Hosting"],
-      link: "#",
+      link: "https://nainoacademy.netlify.app/",
     },
     {
       id: 2,
