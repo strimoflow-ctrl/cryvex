@@ -162,10 +162,10 @@ export const aboutConfig: AboutConfig = {
   bioText: "I am a next-gen developer who bridges the gap between imagination and reality using AI. I don't just write code; I orchestrate AI tools to build stunning websites, complex apps, and powerful automation systems. It's not just about syntax; it's about the vibe and the result.",
   portraitImage: imageConfig.about.creatorPortrait,
   stats: [
-    { label: "Years Experience", value: "5+" },
-    { label: "Projects Completed", value: "50+" },
-    { label: "Technologies", value: "20+" },
-    { label: "Happy Clients", value: "30+" },
+    { label: "Years Experience", value: "1+" },
+    { label: "Projects Completed", value: "15+" },
+    { label: "Technologies", value: "10+" },
+    { label: "Happy Clients", value: "10+" },
   ],
 };
 
