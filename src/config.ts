@@ -53,7 +53,7 @@ export const imageConfig = {
       "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80",
     ],
     // Project cards
-    project1: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80", // AI Automation Project
+    project1: "https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@5d0ee8454a71cf215bb92feff09e4364392df081/uploads/2026-02-19T08-30-16-652Z-1bogr7dxl.png", // AI Automation Project
     project2: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&q=80", // Mobile App Project
     project3: "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80", // Web Platform
     project4: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80", // Cybersecurity/Tech
@@ -250,10 +250,10 @@ export const projectsConfig: ProjectsConfig = {
   projects: [
     {
       id: 1,
-      title: "AI Workflow Automation",
-      description: "Intelligent automation system that streamlines business processes using AI agents and machine learning.",
+      title: "Ott Platgorm For Naino Academy",
+      description: "Ott Platgorm For Naino Academy made for students.",
       image: imageConfig.projects.project1,
-      tags: ["Python", "OpenAI", "LangChain", "Automation"],
+      tags: ["html", "js", "Video PLayer", "Telegram Hosting"],
       link: "#",
     },
     {
