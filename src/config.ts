@@ -63,7 +63,7 @@ export const imageConfig = {
   
   // Footer Section
   footer: {
-    portrait: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80", // Professional portrait
+    portrait: "https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@ffeb27c259c22fe338d9fd0e97db14e8ee34a23f/uploads/2026-02-19T04-45-03-789Z-qmukld3ee.png", // Professional portrait
     gallery: [
       "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&q=80",
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=400&q=80",
