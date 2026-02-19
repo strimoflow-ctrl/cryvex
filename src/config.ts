@@ -46,7 +46,7 @@ export const imageConfig = {
     // Parallax strip images (bottom row)
     parallaxBottom: [
       "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80",
-      "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80",
+      "https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@ca50ecf1af6648770d3d2076c6b8ab9150637593/uploads/2026-02-19T05-14-33-694Z-jx8nkx45w.png",
       "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800&q=80",
       "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80",
       "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800&q=80",
